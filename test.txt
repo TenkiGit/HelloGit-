@@ -2,3 +2,5 @@ Hello GIT
 
 Test
 Test
+
+aを使いしました。
